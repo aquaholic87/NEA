@@ -1,4 +1,9 @@
 pandas
 numpy
 matplotlib
-jupyter
+pyqt6
+
+#temp (not forever)
+scikit-learn
+# seaborn
+# xgboost
